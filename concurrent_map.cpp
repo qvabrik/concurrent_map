@@ -1,21 +1,3 @@
-﻿//#include <stdio.h>
-//#include <thread>
-//#include <iostream>
-//
-//constexpr size_t number_of_maps = 100;
-//
-//void WhichPart(size_t number) {
-//    std::cout << "Element " << number << " belongs to part #";
-//    std::cout << number % number_of_maps << std::endl;
-//}
-//
-//int main()
-//{
-//    for (int i = 1999; i < 2010; ++i)
-//        WhichPart(i);
-//}
-
-
 #include <algorithm>
 #include <cstdlib>
 #include <future>
